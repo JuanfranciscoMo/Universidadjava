@@ -1,0 +1,15 @@
+package morales.com;
+
+import java.util.Scanner;
+
+public class ManejoConsola {
+    public static void main(String[] args) {
+        // Introducción
+        var consola = new Scanner(System.in); // in - input - entrada de datos
+
+        System.out.print("Escribe tu nombre: ");
+        
+        var nombre = consola.nextLine();
+        System.out.println("nombre = " + nombre);
+    }
+}
