@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea1b884c-556b-4101-a24f-a676bfda3140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/Constates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/DetalleLibro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/DetallePersona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/DetalleProductoTienda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/DetalleReservacionHotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/TipoVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/TiposDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/morales/com/Variables.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FaV4BXXN3ITl9xdKeP4xayxPRv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Constates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetalleLibro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetallePersona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetalleProductoTienda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetalleReservacionHotel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReglasNombresVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipoVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposDatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/juanfrancisco/Documentos/UniversidadJava/code/VariablesJava/VaiablesJava/src/main/java/org/morales/com/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="addClasspath" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea1b884c-556b-4101-a24f-a676bfda3140" name="Changes" comment="" />
+      <created>1782312975886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782312975886</updated>
+    </task>
+    <servers />
+  </component>
+</project>
