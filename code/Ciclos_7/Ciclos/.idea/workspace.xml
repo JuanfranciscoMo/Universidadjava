@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cb73944-7244-42ba-8136-31703d7ecff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/AplicacionCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/AplicaciónCageroAutomatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/CicloDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/CicloFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/CicloWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/DibujaTriangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/JuegoAdivinanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/NumerosImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/NumerosIversos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/NumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/NumerosParesConFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/PalabraBreackContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/SistemaAdministracionCuentas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/SumaAcumultiva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/morales/com/ValidacionPassword.java" afterDir="false" />
-    </list>
+    <list default="true" id="7cb73944-7244-42ba-8136-31703d7ecff1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "inlay.hints"
   }
