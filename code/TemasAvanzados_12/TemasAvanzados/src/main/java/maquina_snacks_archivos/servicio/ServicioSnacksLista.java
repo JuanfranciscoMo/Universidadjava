@@ -1,9 +1,11 @@
-package maquina_snacks;
+package maquina_snacks_archivos.servicio;
+
+import maquina_snacks_archivos.dominio.Snack;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Snacks {
+public class ServicioSnacksLista implements IServicioSnacks{
     private static final List<Snack> snacks;
 
     // Bloque static inicializador
@@ -11,23 +13,24 @@ public class Snacks {
         snacks = new ArrayList<>();
         snacks.add(new Snack("Papas", 70));
         snacks.add(new Snack("Refresco", 50));
-        snacks.add(new Snack("Papas", 70));
+        snacks.add(new Snack("Sandwitch", 70));
     }
 
-    public static void agregarSnack(Snack snack){
+    public void agregarSnack(Snack snack){
+
         snacks.add(snack);
     }
 
-    public  static void mostrarSnacks(){
+    public void mostrarSnack(){
         var inventarioSnacks = "";
         for (var snack: snacks){
-            inventarioSnacks += snack.toString();
+            inventarioSnacks += snack.toString() + "\n";
         }
         System.out.println("--- Snack en el Inventario ---");
         System.out.println(inventarioSnacks);
     }
 
-    public static List<Snack> getSnacks(){
+    public List<Snack> getSancks(){
         return snacks;
     }
 }
