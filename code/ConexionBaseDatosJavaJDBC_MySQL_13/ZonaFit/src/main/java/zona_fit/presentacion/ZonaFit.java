@@ -39,6 +39,7 @@ public class ZonaFit {
                 Elige una opción:\s""");
         return Integer.parseInt(consola.nextLine());
     }
+
     private static boolean ejecutarOpciones(Scanner consola, int opcion,
                                             IClienteDAO clienteDAO) {
         var salir = false;
