@@ -1,6 +1,6 @@
 package com.morales.rh.servicio;
 
-import com.morales.rh.Empleado;
+import com.morales.rh.Entidad.Empleado;
 
 import java.util.List;
 

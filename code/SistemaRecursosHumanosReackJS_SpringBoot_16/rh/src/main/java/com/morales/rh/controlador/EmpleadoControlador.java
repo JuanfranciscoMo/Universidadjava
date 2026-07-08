@@ -1,6 +1,6 @@
 package com.morales.rh.controlador;
 
-import com.morales.rh.Empleado;
+import com.morales.rh.Entidad.Empleado;
 import com.morales.rh.excepcion.RecursoNoEnotradoExcepcion;
 import com.morales.rh.servicio.IEmpleadoServicio;
 import org.slf4j.Logger;

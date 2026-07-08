@@ -1,4 +1,4 @@
-package com.morales.rh;
+package com.morales.rh.Entidad;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
