@@ -1,6 +1,6 @@
 package com.morales.rh.servicio;
 
-import com.morales.rh.Empleado;
+import com.morales.rh.Entidad.Empleado;
 import com.morales.rh.repositorio.EmpeladoRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
