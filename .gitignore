@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 *.token
 tocken
 tokendGit
 UsuarioTockendGit
+=======
+/code/POOJava_17/ArgumentosVariables/nbproject/private/
+/code/POOJava_17/ArgumentosVariables/build/
+/code/POOJava_17/Enumeraciones/nbproject/private/
+/code/POOJava_17/Enumeraciones/build/
+>>>>>>> develop
